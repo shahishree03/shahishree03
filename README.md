@@ -10,8 +10,7 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=shahishree03&color=red)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Hello everyone, I'm pursuing M.Tech CSE VIT Vellore.  I enjoy collaborating with people on works of similar interest. 
